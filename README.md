@@ -56,7 +56,7 @@ Arquivo de Interface Homem–Máquina - inclui telas operacionais, botões de co
 <h2 style="font-size: 40px; color:#e63946;">
 🎥 Vídeo de Demonstração
 </h2>
-👉 Clique aqui para assistir à demonstração do sistema em funcionamento: _https://www.youtube.com/watch?v=GOhv41bhNo8_
+👉 Clique aqui para assistir à demonstração do sistema em funcionamento: `https://www.youtube.com/watch?v=GOhv41bhNo8`
 
 <h2 style="font-size: 40px; color:#e63946;">
 🛠️ Tecnologias e Dispositivos Utilizados:
