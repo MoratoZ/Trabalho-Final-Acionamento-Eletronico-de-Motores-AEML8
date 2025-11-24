@@ -1,4 +1,6 @@
+<h2 style="font-size: 40px; color:#e63946;">
 🏭 Automatização de um Processo Industrial com Diferentes Métodos de Acionamento Eletrônico de Motores
+</h2>
 
 Este repositório reúne todos os arquivos do Trabalho Final da disciplina de Acionamento Eletrônico de Motores (AEML8), no qual desenvolvemos a automação completa de um processo industrial para a produção de extrato de tomate, utilizando CLP, IHM e diferentes tipos de acionamentos eletrônicos de motores de indução trifásicos.
 
