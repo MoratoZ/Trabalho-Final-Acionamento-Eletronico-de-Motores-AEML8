@@ -13,8 +13,11 @@ O projeto inclui simulação, programação, parametrização de dispositivos re
 🚀 Objetivo do Projeto
 </h2>
 Implementar um sistema automatizado capaz de controlar cinco motores com diferentes métodos de partida e acionamento:
+
   - ⭐ Partida estrela–triângulo
+
   - ⚙️ Soft-Starters
+
   - 🔄 Inversores de Frequência (escalar e vetorial)
 
 O processo automatizado contempla lavagem, transporte, descascamento, pré-cozimento e batimento/cozimento final do tomate.
@@ -26,57 +29,79 @@ O processo automatizado contempla lavagem, transporte, descascamento, pré-cozim
 <h3 style="font-size: 25px; color:#e63946;">
 🧩 Diagramas Elétricos
 </h3>
+
 Diagrama de Comando e Diagrama de Potência - contêm toda a lógica de acionamento dos motores, intertravamentos, sinalizações e conexões no painel.
+
 > Diagramas-AutoCAD.dwg
 
 <h3 style="font-size: 25px; color:#e63946;">
 🧪 Simulação FluidSIM
 </h3>
+
 Arquivo da simulação - permite visualizar e testar todo o processo em ambiente virtual, incluindo sensores, temporizações e sequenciamento dos motores.
+
 > Simulação-FluidSIM.ct
 
 <h3 style="font-size: 25px; color:#e63946;">
 🧪 Simulação CADeSIMU
 </h3>
+
 Arquivo da simulação - permite visualizar e testar a maior parte do processo em ambiente virtual.
+
 > Simulação-CADeSIMU
 
 <h3 style="font-size: 25px; color:#e63946;">
 🖥️ Código do CLP
 </h3>
+
 Programa completo do Nexto Xpress - implementa a lógica completa do processo, incluindo temporizações, alternância de sentidos, lógica de segurança e comandos da IHM.
+
 > ProjetoFinal-CLP.project
 
 <h3 style="font-size: 25px; color:#e63946;">
 🖱️ Projeto da IHM
 </h3>
+
 Arquivo de Interface Homem–Máquina - inclui telas operacionais, botões de comando, indicação de estado dos motores e interação com sensores/temporizadores.
+
 > ProjetoFinal-IHM.neoproj
 
 <h2 style="font-size: 40px; color:#e63946;">
 🎥 Vídeo de Demonstração
 </h2>
+
 👉 Clique aqui para assistir à demonstração do sistema em funcionamento: https://www.youtube.com/watch?v=GOhv41bhNo8
 
 <h2 style="font-size: 40px; color:#e63946;">
 🛠️ Tecnologias e Dispositivos Utilizados:
 </h2>
+
 - CLP: Altus Nexto Xpress XP325
+
 - IHM: Interface Touch programável
+
 - Motores de Indução Trifásicos (5 unidades)
+
 - Inversores de Frequência: WEG CFW10 (escalar) e WEG CFW300 (vetorial)
+
 - Soft-Starters: WEG SSW-05
+
 - Painel Industrial Completo com contatoras, relés, DPS e disjuntores
 
 <h2 style="font-size: 40px; color:#e63946;">
 📄 Referência Completa
 </h2>
+
 Este projeto também deu origem ao artigo disponível no repositório:
+
 > 📄 Artigo-TrabalhoFinal.pdf
 
 <h2 style="font-size: 40px; color:#e63946;">
 👥 Autores
 </h2>
+
 - Giovana Campos Lopes
+
 - Gustavo Morato de Marchi Soares
+
 - João Victor Dantas dos Santos
